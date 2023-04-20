@@ -1,4 +1,4 @@
-var countDownDate = new Date("April 21, 2023 18:00:00");
+var countDownDate = new Date("April 20, 2023 18:00:00");
 
 function formatDate(myDate) {
   var days = myDate.getDay();

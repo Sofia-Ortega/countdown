@@ -54,3 +54,8 @@ header {
 .num {
   font-size: 80px;
 }
+
+#dayTimer {
+  font-weight: bolder;
+  color: rgb(245 184 92);
+}
